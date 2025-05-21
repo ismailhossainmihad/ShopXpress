@@ -88,5 +88,3 @@ Flash sales and coupon codes are date-sensitive:
 This project is open-source and can be used for learning or extension purposes.
 
 ---
-
-Let me know if you want this `README.md` in a downloadable file format or need a GUI/web-based version of the system!
